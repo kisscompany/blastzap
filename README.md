@@ -6,7 +6,7 @@ O WhatsApp é uma poderosa ferramenta de comunicação instantânea com uma incr
 
 ## Recursos Disponiveis
 
-- **Disparos em Massa:** 
+- **Disparos em Massa** 
 
 ## Recursos Futuros
 
