@@ -1,7 +1,4 @@
 # BlastZap - Automação de WhatsApp para Impulsionar suas Vendas
-
-## Descrição
-
 O WhatsApp é uma poderosa ferramenta de comunicação instantânea com uma incrível taxa de abertura, oferecendo uma maneira eficaz de se conectar com novos clientes. O BlastZap foi desenvolvido para simplificar o processo de marketing no WhatsApp, permitindo que você alcance além da sua lista de contatos.
 
 ## Recursos Disponiveis
