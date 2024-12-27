@@ -4,12 +4,12 @@ O WhatsApp é uma poderosa ferramenta de comunicação instantânea com uma incr
 ## Recursos Disponiveis
 
 - **Disparos em Massa** 
-
-## Recursos Futuros
-
 - **Mutiplas Contas de WhatsApp**
 - **Extração de Números de Grupos** 
 - **Envio Automático de Áudios**
+  
+## Recursos Futuros
+
 - **Criação de Relatórios Detalhados**
 
 ## Instalação
