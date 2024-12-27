@@ -18,13 +18,6 @@ O WhatsApp é uma poderosa ferramenta de comunicação instantânea com uma incr
 2. Execute o instalador seguindo as instruções na tela.
 3. Após a instalação, inicie o programa e siga as configurações iniciais.
 
-## Como Usar
-
-1. Para conseguir usar o BlasZap você precisa criar uma conta
-2. Crie conta no BlastZap e faça login com sua conta do WhatsApp no navegador que irá abrir.
-3. Configure suas mensagens de acordo com suas estratégias de marketing.
-4. Aproveite a eficiência da automação para impulsionar suas vendas.
-
 ## Contribuições
 
 Contribuições são bem-vindas! Se encontrar algum problema ou tiver sugestões, sinta-se à vontade para abrir uma issue.
