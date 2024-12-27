@@ -14,7 +14,7 @@ O WhatsApp é uma poderosa ferramenta de comunicação instantânea com uma incr
 
 ## Instalação
 
-1. Faça o download do instalador do BlastZap. [Clique aqui](https://github.com/kisscompany/blastzap_installer/releases/download/1.0.3/BlastZap.1.0.0.-.Instalador.exe)
+1. Faça o download do instalador do BlastZap. [Clique aqui](https://github.com/kisscompany/blastzap_installer/releases/download/1.0.0/BlastZap.1.0.0.-.Instalador.exe)
 2. Execute o instalador seguindo as instruções na tela.
 3. Após a instalação, inicie o programa e siga as configurações iniciais.
 
